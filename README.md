@@ -9,6 +9,10 @@ Some Current Projects:
 
 Please feel free to contact me with any oppurtunities by creating an issue on this repo. Also please feel more then welcome to ask for help ( I will try myb best to help you but in all likelihood I won't be able to due to my limited skilll & experience).
 
-![description](description.png)
+![description](carbon (1).png)
 
 Thanks for reading & have a great day!
+
+Credits:
+Thanks to NASA for the image of the Earth
+Thanks to Carbon for the description code
