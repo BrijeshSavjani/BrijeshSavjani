@@ -1,16 +1,14 @@
 ![banner](banner.png)
 
-<!--
-**BrijeshSavjani/BrijeshSavjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello everyone my name is Brijesh Savjani. Welcome to my Github profile. I am currently studying my A-levels and have ambitions to got university to study Computer Science and Artificial Intelligence.
 
-Here are some ideas to get you started:
+Some Current Projects:
+- A DRS(Direct Review System) that uses computer vision on videos captupred by snmartphones
+- A website (For a buissness please check my repos)
+- And much more (surprises for now as they're still in their infancy & I don't have infinite space)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please feel free to contact me with any oppurtunities by creating an issue on this repo. Also please feel more then welcome to ask for help ( I will try myb best to help you but in all likelihood I won't be able to due to my limited skilll & experience).
+
+![description](description.png)
+
+Thanks for reading & have a great day!
