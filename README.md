@@ -9,7 +9,7 @@ Some Current Projects:
 
 Please feel free to contact me with any oppurtunities by creating an issue on this repo. Also please feel more then welcome to ask for help ( I will try myb best to help you but in all likelihood I won't be able to due to my limited skilll & experience).
 
-![description](carbon (1).png)
+![description](desc.png)
 
 Thanks for reading & have a great day!
 
