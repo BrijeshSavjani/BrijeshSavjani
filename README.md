@@ -7,7 +7,7 @@ Some Current Projects:
 - A website (For a buissness please check my repos)
 - And much more (surprises for now as they're still in their infancy & I don't have infinite space)
 
-Please feel free to contact me with any oppurtunities by creating an issue on this repo. Also please feel more then welcome to ask for help ( I will try myb best to help you but in all likelihood I won't be able to due to my limited skilll & experience).
+Please feel free to contact me with any oppurtunities by creating an issue on this repo. Also please feel more then welcome to ask for help ( I will try my best to help you but in all likelihood I won't be able to due to my limited skills & experience).
 
 ![description](desc.png)
 
