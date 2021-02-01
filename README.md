@@ -14,5 +14,5 @@ Please feel free to contact me with any oppurtunities by creating an issue on th
 Thanks for reading & have a great day!
 
 Credits:
-Thanks to NASA for the image of the Earth
+Thanks to NASA for the image of the Earth</br>
 Thanks to Carbon for the description code
